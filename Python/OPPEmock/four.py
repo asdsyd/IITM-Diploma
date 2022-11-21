@@ -4,21 +4,30 @@
 #
 # You do not have to accept input from the user or print output to the console. You just have to write the function definition.
 
-def exact_count(para, n):
-    Dee = dict()
-    for word in para.split(' '):
+# def exact_count(para, n):
+#     Dee = dict()
+#     for word in para.split(' '):
+#
+#         if word not in Dee:
+#             Dee[word] = 0
+#         Dee[word] += 1
+#
+#     for word in Dee:
+#         if Dee[word] == n:
+#             return True
+#
+#     return False
 
-        if word not in Dee:
-            Dee[word] = 0
-        Dee[word] += 1
-
-    for word in Dee:
-        if Dee[word] == n:
+def exact_count(para: str, n: int) -> bool:
+    ps = para.split(' ')
+    for x in ps:
+        if(ps.count(x) == n):
             return True
-
     return False
 
 
+
+
 para = 'good word many good works good real choice'
-n = 3
+n = 4
 print(exact_count(para, n))

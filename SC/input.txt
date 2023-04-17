@@ -1,0 +1,9 @@
+1 gamma
+2 gamma
+33 gamma delta
+3 gamma
+delta
+3 beta
+4 alpha
+5 alpha gamma kappa gamma
+gamma

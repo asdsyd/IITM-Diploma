@@ -18,3 +18,4 @@ else:
     p = p.replace('o','0')
     p = p.replace('l','1')
 print(p)
+if()

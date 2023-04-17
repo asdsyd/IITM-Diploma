@@ -1,4 +1,4 @@
-package WEEK3;
+package week3;
 
 import java.util.*;
     class BankAccount{

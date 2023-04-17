@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/IITM-Diploma.iml" filepath="$PROJECT_DIR$/.idea/IITM-Diploma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IITM_Diploma.iml" filepath="$PROJECT_DIR$/.idea/IITM_Diploma.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/PDSA/PDSA.iml" filepath="$PROJECT_DIR$/PDSA/PDSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Python/Python.iml" filepath="$PROJECT_DIR$/Python/Python.iml" />
